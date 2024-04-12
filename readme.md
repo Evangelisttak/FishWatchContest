@@ -1,6 +1,6 @@
 # The "Fish Watch" System
 
-![image](./Images/Title.png)
+![image](./Images/Title.PNG)
 
 #### Meeting the Needs of Modern Fish Farming
 
