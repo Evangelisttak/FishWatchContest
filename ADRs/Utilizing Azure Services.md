@@ -19,6 +19,5 @@ We have decided to leverage Azure Services for cache, storage, database manageme
 * **Caching for Performance Optimization:** Azure Cache for Redis provides in-memory caching capabilities that can help improve the performance and responsiveness of the Fish Watch application by reducing latency and offloading computational workloads from the backend systems.
 
 ## Consequences
-* **Vendor Lock-in:** Choosing Azure Services may result in vendor lock-in, limiting the application's portability to other cloud platforms. However, the benefits of leveraging Azure's comprehensive ecosystem and integrated solutions outweigh the potential drawbacks in this context.
 * **Cost Considerations:** While Azure Services offer flexible pricing options, careful monitoring and optimization of resource usage are necessary to manage costs effectively, especially as the application scales.
 * **Technical Expertise:** Developing and managing a solution based on Azure Services may require specialized technical skills and expertise. Training and upskilling efforts may be necessary to ensure the successful implementation and operation of the Fish Watch application.
