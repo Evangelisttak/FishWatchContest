@@ -1,3 +1,3 @@
-# Functional/Component Architecture  
+# Functional/Component Architecture
 
-![image](../diagrams/Functional.png) 
+![image](../diagrams/FunctionalDiagram.png)

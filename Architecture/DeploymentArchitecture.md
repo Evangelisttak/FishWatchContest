@@ -1,3 +1,3 @@
-# Deployment Architecture  
+# Deployment Architecture
 
-![image](../diagrams/Deployment.png) 
+![image](../diagrams/DeploymentDiagram.png)

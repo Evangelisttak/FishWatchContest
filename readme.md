@@ -1,6 +1,6 @@
 # The "Fish Watch" System
 
-![image](./Images/Title.PNG)
+![image](./Images/FishWatchBanner.png)
 
 #### Meeting the Needs of Modern Fish Farming
 
@@ -67,9 +67,14 @@ The vision for Livestock Insights Incorporated is to be the global leader in emp
 * Describes the infrastructure components such as servers, containers, and networking configurations.
 * Provides insights into scalability, reliability, and resilience aspects of the system's deployment.
 
-### [Final Architecture](./Architecture/FinalArchitecture.md)
+### [Technical with Deployment (Final) Architecture](./Architecture/FinalTechnicalArchitecture.md)
 
 * the technical architectural idea.
+
+## Architectural Desision Records (ADRs)  
+
+You can find the key Architectural Decision Records [here](./ADRs/)  
+
 
 ## Business continuity plan and availability
 
