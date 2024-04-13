@@ -1,6 +1,6 @@
 # Excluded Diagrams
 
-## 1) Pen-Paper Diagram
+## 1) Pen-Paper Requirement Diagram
  ![image](./Images/ADRImages/Ex1.png) 
 
  ## 2) Use Case 1 Diagram
@@ -10,7 +10,7 @@
  ![image](./Images/ADRImages/Ex3.png) 
 
  ## 4) Functional Diagram
- ![image](./Images/ADRImages/Ex4.png) 
+ ![image](./Images/ADRImages/Ex4.jpg) 
 
  ## 5) Architecture Diagram
  ![image](./Images/ADRImages/Ex5.png) 
@@ -34,4 +34,7 @@
  ![image](./Images/ADRImages/Ex11.png) 
 
    ## 12) Use Case 4 Diagram
- ![image](./Images/ADRImages/Ex12.png) 
+ ![image](./Images/ADRImages/Ex12.jpg) 
+
+   ## 13) Requirement Capture Diagram
+ ![image](./Images/ADRImages/Ex13.jpg) 
