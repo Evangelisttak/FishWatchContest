@@ -10,6 +10,9 @@ Authors:
 * [Akhil Nayta](https://www.linkedin.com/in/akhil-nayta-27564749)
 * [Tarun Mittal](https://www.linkedin.com/in/tarun-mittal-734268155)
 
+## The Final Video Presentation
+[![Watch the video](./Images/Video.png)](https://www.youtube.com/watch?v=HuC7pP4mAK0)
+
 ## Prelude
 
 Nestled in the heart of Scotland, Livestock Insights Incorporated is a global powerhouse, its flagship service Fish Watch revolutionizing the aquaculture industry. With a keen focus on fish health and farm management, Fish Watch harnesses cutting-edge technology to provide farmers with invaluable insights. From monitoring individual fish to analyzing water quality and weather data, it offers a comprehensive solution tailored to the needs of modern aquaculture. Fish farmers worldwide rely on its precision to detect signs of disease, parasites, and optimize harvest timing for maximum yield. As a beacon of innovation, Livestock Insights continues to expand its reach, empowering farmers and fostering sustainable practices across the globe. With Fish Watch at their side, fish farmers navigate the complexities of aquaculture with confidence, ensuring a prosperous future for the industry.
